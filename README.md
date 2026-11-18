@@ -40,8 +40,7 @@ Installation
 
 You can clone the repository from GitHub:
 
-bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Gigy21/Cybersecurity-Log-Analyzer.git
 
 
 You can also download the project as a ZIP file and extract it.
